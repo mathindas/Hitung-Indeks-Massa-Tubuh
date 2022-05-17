@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hitung Indeks Massa Tubuh</string>
+    <string name="calculate">Hitung</string>
+    <string name="male">Pria</string>
+    <string name="female">Wanita</string>
+    <string name="tinggi">Tinggi</string>
+</resources>
